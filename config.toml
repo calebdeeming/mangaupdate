@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "https://manga2023.pages.dev/"
 languageCode = "en-us"
-title = "Hally"
+title = "Manga2023"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 9
 
