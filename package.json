@@ -1,0 +1,11 @@
+{
+  "name": "manga",
+  "version": "1.0.0",
+  "description": "This theme is suitable for a modern beautiful blog, personal website or gallery. Hally is a fully responsive and easily customizable theme with a clean and minimal design.",
+  "main": "index.js",
+  "scripts": { 
+ 	"build": "echo 'build script executed'"
+  },
+  "author": "",
+  "license": "ISC"
+}
