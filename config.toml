@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://manga2023.pages.dev/"
+baseURL = "https://mangaupdate.pages.dev/"
 languageCode = "en-us"
 title = "Manga2023"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
@@ -40,27 +40,7 @@ paginate = 9
 
   #-------------------------------
   # Author Settings
-  [params.author]
-    author__name = "Howard Burns"
-    author__image = "https://via.placeholder.com/200x200"
-    author__avatar = "https://via.placeholder.com/200x200"
-    author__description = "My name is Howard Burns. I'm a freelance photographer based in Denver. I like being free and enjoying every moment."
-
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
-
-  [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-
-  [[params.social]]
-    icon = "ion-logo-dribbble"
-    name = "Dribbble"
-    link = "https://dribbble.com"
-
+ 
   # Example of adding a new link to the author section and footer:
   # [[params.social]]
   #   icon = "ion-logo-vimeo"
