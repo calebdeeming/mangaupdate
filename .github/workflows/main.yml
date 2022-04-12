@@ -6,7 +6,7 @@ on:
      - master
   schedule:
   # Run on the hour
-    - cron: '* * * * *'
+    - cron: '0 1 * * *'
 
 jobs:
   build-deploy:
